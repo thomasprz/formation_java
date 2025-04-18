@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
-
-public class Main {
+public class Exercice01_Variables {
 
     public static void main(String[] args){
     //COURSE
